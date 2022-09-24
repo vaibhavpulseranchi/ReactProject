@@ -46,5 +46,5 @@ const App = () => {
 }
 
 
-/*change from home*/
+
 export default App;
